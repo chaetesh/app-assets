@@ -1,0 +1,11 @@
+{
+  "Div": 26,
+  "TextBox": 48,
+  "Flex": 10,
+  "Dropdown": 3,
+  "Image": 21,
+  "Link": 17,
+  "Accordion": 1,
+  "Button": 1,
+  "Countdown": 1
+}
